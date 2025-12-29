@@ -3,7 +3,6 @@ from kiteconnect import KiteConnect
 import csv
 import time                   
 from datetime import datetime
-import xlsxwriter
 import os
 
 api_key = "k8jfisczsz5bsbff"
