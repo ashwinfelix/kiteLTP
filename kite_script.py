@@ -5,8 +5,8 @@ import time
 from datetime import datetime
 import os
 
-api_key = "k8jfisczsz5bsbff"
-access_token = "UmA3Rg35iByJmlzL8U1UygUGuR5KqJPE"
+api_key = ""
+access_token = ""
 base_directory = r"C:\Users\ashwi\OneDrive\Desktop\kiteToCSV\CSVfiles"
 #data = kite.generate_session("request_token_here", api_secret="your_secret")  acces toekn will expire every day so try to use request token
 kite = KiteConnect(api_key=api_key)
